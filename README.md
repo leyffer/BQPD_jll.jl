@@ -18,7 +18,8 @@ you accept the terms of this license agreement.
 A copy of the license is stored at `share/licenses/BQPD/LICENSE` in the
 installed artifact directory, available via `BQPD_jll.artifact_dir`.
 
-The underlying solver is a closed-source commercial product.
+The underlying solver is a closed-source product.
+Although its source code is not publicly available, the precompiled binaries are freely redistributable under the BSD 3-Clause license.
 This package does not bundle any additional third-party code.
 
 If you use `BQPD_jll.jl` as a `BuildDependency` instead of a `Dependency` in a recipe `build_tarballs.jl` for a package in [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil), don't forget to install the BQPD license with the command `install_license`.
