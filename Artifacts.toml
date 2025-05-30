@@ -6,7 +6,7 @@ os = "macos"
 
     [[BQPD.download]]
     sha256 = "83f283a0ef3741f146300c6a5be41c207986ce0eb87d8ccdc521bc3a3a2a9e2b"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "a590a2b3b7dfd73e6a5765c4af6ed74dd795c34a"
@@ -16,7 +16,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "46fb6a4a95e4a49b6740659515835d550429d9d68aacbc31de6bf9a4ee0a6f01"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "6d8ccacd685b14a37c82ad4c7b7b6fd6299d6993"
@@ -26,7 +26,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "81884793c6f6e41f3f6a0fba3548829b16e55f6678523659c1bed24d534c6b2f"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "be2f915af746a178c7533c38a7c83425e2db7659"
@@ -36,7 +36,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "c4793d8e925763105a9b464755b6f228ec2dc1e597da64b53888c00f561a3fcd"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "5a40a3136e3a40e27255cc3c8c2f9cf851d2319f"
@@ -46,7 +46,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "0ff3312d6b847bf56dd933d83082d3467029bf55eb85bbf2421537df6b454961"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "4f3e35c7b013f7d4658f48820a0706cb97b6f8dc"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "6129e5b5232402a9fc0f7cc2bd7b20175407d45f5afb003eadc264953e15d465"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "bb663963fadfe131e954c050595dc6dc576b100e"
@@ -66,7 +66,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "78bc8493eef3b78893b914564746bcbb778c4346f6773f2d5cf46650b9aabc30"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "aarch64"
 git-tree-sha1 = "f6d146760f351c8fe22497d9ae6851277b12df73"
@@ -75,7 +75,7 @@ os = "freebsd"
 
     [[BQPD.download]]
     sha256 = "9f619033aed60d116580884868b31e18985a098c007edff59841cf2ddc2d8a36"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -86,7 +86,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "d5481a47a3b809ed4e7c166ff149a14524f69468f7b5eb7219ac284961c663a0"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -97,7 +97,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "229f2cbd3aaded1aaab2ca94983db6a730f436dcf87ab65eee598123df6f71da"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "d8dc48a7690605255ac0957f5af82ffa8ff34963c53f2e46484756440f1a9b88"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -119,7 +119,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "580e9b85ad09176154f80516c25abde15e419a117b178531a52268a515887925"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -130,7 +130,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "0c460da876094d946fad7cdadcd6766644ea4e3f7d2aa460f4b5d7b857635e47"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -141,7 +141,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "446b38b98a82d56abd05e93d5678fafaf3769115d2bfd0df781d793ce73679ee"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -152,7 +152,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "2e303344c01f946da7d8fbdbb83e0312842e1ce1322180c5e2989c435c0cc027"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -163,7 +163,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "cb4df4582f7b8198cf1efc6f541bdfdf7fc6269b9c8e33ec1a560bf84855b004"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -174,7 +174,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "3048a10ea82832370981814cde593e260d307b377832dc1514cc23541bb8be55"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -185,7 +185,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "06211d3a5ba4cd59b9787c0c434d0d15e90f818cfe2b0637fa0e9590b167c10c"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -196,7 +196,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "a8f7a1822c4c9c52e8ad90355963e2633afd4188eb8bb675a17950a60a3bb920"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -207,7 +207,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "85db944bb2b2ca4475a3b8e042e0740d5f42d55b4fa04dff12298dd45c74ea90"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "1a221ddd0a03ec17e9fb05ba457c1ba77c458ef7"
@@ -217,7 +217,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "9d3bc798c6878c27da70176b232e1eafb8aa7f16e9b20c5fb582401f7e1ffddb"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "7b8e83a045ba8faa03103fdf8206d4cbbbf6a83e"
@@ -227,7 +227,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "fc42d2dce2201b49cd1db2be5eb577ebd599932989aad5a55c9706b4c311f4c3"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "dbf62f1cec3ca6fa0f9991330fc9f8270d6757b4"
@@ -237,7 +237,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "2ebac58336fcc332e049d777be4e4042c44ced98a6bf11589315bba2bd0ecd2d"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "757dab3fdb5afdcc9204a026c7e9b3c7a7453784"
@@ -247,7 +247,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "1bcd111402ac64935768ca9bd03eb9edcf15d8b96c5905227664622d6fce0213"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "b261d4b4a7a661bc10fe3c6ee3921c586ece4f83"
@@ -257,7 +257,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "e249e356ecda64aee333e9b3cb98086ef718fb71aecce0955ad408fdd37374ff"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "3b66b5d2b01d9ee324099b293339a6f1f97fc861"
@@ -267,7 +267,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "7f5257bf710c6927e7558eb97d97e2c5d89f3aeb759173677afd6c08777e150a"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "cf5ad5f12a19f6b097e934f3e91d47b9c0dbb95a"
@@ -276,7 +276,7 @@ os = "windows"
 
     [[BQPD.download]]
     sha256 = "acae3c74224e557ba7a3eb1b8cac735fd89e25e16d4cc3f6820a0e862aae8b5e"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "4930aa4f4035d4374bd8c49ba0a2781744846cdd"
@@ -285,7 +285,7 @@ os = "windows"
 
     [[BQPD.download]]
     sha256 = "10cc4ad525a6c06515c7ca26b010f2bca83e214a715e57f828527711db9bdc27"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "i686"
 git-tree-sha1 = "f508a3a7e2d9fff57e09f5b7c509912a1fe368f7"
@@ -294,7 +294,7 @@ os = "windows"
 
     [[BQPD.download]]
     sha256 = "7bcea2aedd62fe6f07035b1f15c66e102c8ce0db6de6081f1dfe4451a27d7957"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "powerpc64le"
 git-tree-sha1 = "f948e8654c37ffa6eda21e2d2d8606f32f4b6f33"
@@ -304,7 +304,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "44c83bb4bb0d48987b6be4f4ce6d5a3456f238d8c9bbd79c81ff519eb86954a6"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "powerpc64le"
 git-tree-sha1 = "d0208236af4506f2fa1458d284a682ee43a0fcdd"
@@ -314,7 +314,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "20752ae6d13130df294756dbc262f50c9f5f338a62eaa0e2ae8ef7a5a8ce7b77"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "powerpc64le"
 git-tree-sha1 = "f4ce596b48341aa379c44fb7e0b0fff2a8cfa0a5"
@@ -324,7 +324,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "7de0f4459ef301855c6609af794333ba4384faafa7f4ee5c7507a81ace61e14c"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "riscv64"
 git-tree-sha1 = "94333c1dff439d38b451088800cd2ff97f1ae17f"
@@ -334,7 +334,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "311f92ed457181f759ae5cb4baf2dd5d54d2a4f2946ea6487a3d7c10a72cc4f6"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "40a13b68f64f991d31f73fef251b46f4bb2cd147"
@@ -343,7 +343,7 @@ os = "macos"
 
     [[BQPD.download]]
     sha256 = "63d0e0a9e66f99c249e8581e91c01f4d561ae80766db6e4962ac5194a5dda45c"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "b7819c18f287954457b482abdf75a6b5d724efff"
@@ -352,7 +352,7 @@ os = "macos"
 
     [[BQPD.download]]
     sha256 = "86a84f2461c8f9e6397a99b55ae90af7bda44de2eda10fde92b85460819a8c90"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "af4dd957f5f479ab2ce29b8caff9c14b89ecc8f1"
@@ -361,7 +361,7 @@ os = "macos"
 
     [[BQPD.download]]
     sha256 = "72bc990ce82edc120b310721311453200d8f3fbdd1650d5321741001d6e6da74"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "419c052a2f8402d1a75d6f88542e482baa8ad7c4"
@@ -371,7 +371,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "f16884b8b9d677d9176cbe42b908c1e2f0129331d507cfdc64741f21e3e0e7f0"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "b1d7c2b8a8ef0ede5e4512bfda37df6c657d245b"
@@ -381,7 +381,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "cc7150e798269264d3ef85c6be62827780b0c1bb1e378119e4703d6f7c669079"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "943729a03e7555033da0b2c409e7fe9f73e07a45"
@@ -391,7 +391,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "102bd6a84db5f9181b6b404158efd641f5e65d3609c7956ee8ce799a0f988acb"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "6e99f98b7637f01d5e47cea0be10e3dcae53cf3c"
@@ -401,7 +401,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "6ecf552cf80342dbe30807d0460555315703a80e7dc9a79c269fcce93177195a"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "9052968380a32f5a609d0860b9194fe1806d3519"
@@ -411,7 +411,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "93e74afcb673a5878b278cbff2ceb50a2283b4022a7ff8922ccc1dd73ce72ab5"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "c91762663d455460d0eb20378dcf4d567401f17d"
@@ -421,7 +421,7 @@ os = "linux"
 
     [[BQPD.download]]
     sha256 = "9dfe0487a909649e9632e2e811f3eb18ff8d5376037af6c372766bf23c132883"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "c24b36b5d8fbe59f5aaba7e1aaef36319797dbbb"
@@ -430,7 +430,7 @@ os = "freebsd"
 
     [[BQPD.download]]
     sha256 = "35467e33c144ee48736e72b1b366df930ea49c4195a8d4a66439cd2199bb93e3"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "fea2840b0f4377cbe695116e4af0efb54ae42914"
@@ -439,7 +439,7 @@ os = "freebsd"
 
     [[BQPD.download]]
     sha256 = "b4697bf93968bb943fc7d03530e8cca6fde5b74958daa12342f7abace6734b43"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "52f2880b42b08bb6c1086d8396b908f12720a0c8"
@@ -448,7 +448,7 @@ os = "freebsd"
 
     [[BQPD.download]]
     sha256 = "8aa7d9f597915381975b94132229308a1b26085484989369739b373268f3e716"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "dc473fcd53d518945a5ad62a18607d532b04768c"
@@ -457,7 +457,7 @@ os = "windows"
 
     [[BQPD.download]]
     sha256 = "86224e2bd224c8ebab9354d44e0edee63b06110e5ad92c4df9d8c73c7f60a7ad"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "4995891af69ba00871eb1fc4fd7cf9f249673974"
@@ -466,7 +466,7 @@ os = "windows"
 
     [[BQPD.download]]
     sha256 = "7a4573d798fa2f7ef70b6c3b0d2dfd4caf2691358e10456bff59842d70b0b2d6"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[BQPD]]
 arch = "x86_64"
 git-tree-sha1 = "0673bc56c5eab3d6827812b19b7926b4277934b5"
@@ -475,4 +475,4 @@ os = "windows"
 
     [[BQPD.download]]
     sha256 = "beae27dcf76ab89a2c2dceb19afb1c2262fa8de810cdd7087e8f94cf0a3e28a7"
-    url = "https://github.com/amontoison/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/leyffer/BQPD_jll.jl/releases/download/BQPD-v1.0.0+0/BQPD.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
