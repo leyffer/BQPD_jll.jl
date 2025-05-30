@@ -21,6 +21,9 @@ installed artifact directory, available via `BQPD_jll.artifact_dir`.
 The underlying solver is a closed-source commercial product.
 This package does not bundle any additional third-party code.
 
+If you use `BQPD_jll.jl` as a `BuildDependency` instead of a `Dependency` in a recipe `build_tarballs.jl` for a package in [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil), don't forget to install the BQPD license with the command `install_license`.
+See the recipe for `Uno_jll.jl` as an example.
+
 ## Platforms
 
 `BQPD_jll.jl` is available for the following platforms:
