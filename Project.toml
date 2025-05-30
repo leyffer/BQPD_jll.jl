@@ -1,6 +1,6 @@
 name = "BQPD_jll"
 uuid = "1325ac01-0a49-589f-8355-43321054aaab"
-version = "1.0.0+0"
+version = "1.0.0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
